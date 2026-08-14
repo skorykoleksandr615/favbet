@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://favbet.space/sitemap.xml
