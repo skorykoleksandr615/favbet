@@ -61,12 +61,12 @@ a:hover{color:var(--gold-2)}
 
 .site-header{
   position:sticky;top:0;z-index:50;
-  background:rgba(7,16,31,.92);
-  border-bottom:1px solid rgba(255,0,104),.28);
+  background:rgba(0,0,86,.94);
+  border-bottom:1px solid rgba(255,0,104,.28);
   box-shadow:0 1px 0 var(--gold);
   backdrop-filter:blur(14px);
 }
-.site-header.is-solid{background:rgba(7,16,31,.96)}
+.site-header.is-solid{background:#000056}
 .header-bar{display:flex;align-items:center;gap:.65rem;min-height:74px}
 .brand{display:flex;align-items:center;gap:.7rem;color:#fff;min-width:0}
 .brand-mark{
